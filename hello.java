@@ -1,10 +1,9 @@
-package hello;
 public class hello
 {
    public static void main(String[] args)
    {
      
-      System.out.print("Enter Your First Name : ");
+      System.out.print("arjun : ");
      
    }
 }
